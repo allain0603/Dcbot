@@ -1,2 +1,4 @@
 py-cord
 Flask
+aiohttp
+beautifulsoup4
